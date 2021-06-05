@@ -1,6 +1,6 @@
 {
   "name": "simple-shadow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "simple control your shadow",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/aJoohongKim/simple-shadow/issues"
   },
-  "homepage": "https://github.com/aJoohongKim/simple-shadow#readme"
+  "homepage": "https://github.com/aJoohongKim/simple-shadow#readme",
+  "dependencies": {}
 }
